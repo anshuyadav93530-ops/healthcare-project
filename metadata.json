@@ -1,0 +1,6 @@
+{
+  "name": "HealthGuard",
+  "description": "Interactive healthcare SaaS dashboard and patient monitoring frontend for college hackathons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
